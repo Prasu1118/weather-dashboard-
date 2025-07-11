@@ -19,3 +19,7 @@ Interactive graphs or cards display hourly and 5–7 day forecasts with descript
 The dashboard adapts seamlessly across devices (desktop, tablet, mobile) using responsive CSS techniques, often leveraging Flexbox or Grid layouts.
 - Component Structure
 Major components include SearchBar, WeatherCard, ForecastChart, and LocationSelector, allowing clean separation of logic and UI elements.
+
+# OUTPUT
+
+<img width="1868" height="884" alt="Image" src="https://github.com/user-attachments/assets/053d14c7-17b5-4de4-9050-32848c2f04d4" />
